@@ -1,6 +1,7 @@
 # Ejercicios java
 
 Ejercicios de clase resueltos. Empieza desde pensamiento algorítmico hasta programación orientada a objetos. 
+**NOTA: Los enunciados son mejor dichos descripciones resumidas generalmente.** 
 
 ## 1 Algoritmos en Pseint
 
@@ -70,3 +71,4 @@ Son eventos que interrumpen el flujo normal de un programa. Se utilizan bloques 
 
 Son estructuras de almacenamiento usadas para guardar y recuperar datos en disco. Permiten leer, escribir y manipular información persistente.
 [Enunciados](14_Ficheros/ficheros.md)
+
